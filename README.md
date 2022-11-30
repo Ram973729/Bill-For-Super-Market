@@ -1,14 +1,14 @@
 # Bill-For-Super-Market
-car=60#carrot (Price for 1kg)
-pot=50#potato (Price for 1kg)
-tom=15#tomato (Price for 1kg)
-oni=35#onion  (Price for 1kg)
-rad=25#radish (Price for 1kg)
+car=60 #carrot (Price for 1kg)
+pot=50 #potato (Price for 1kg)
+tom=15 #tomato (Price for 1kg)
+oni=35 #onion  (Price for 1kg)
+rad=25 #radish (Price for 1kg)
 name=input('Enter CustomerName:')
 phno=int(input('Enter PhoneNumber:'))
 addr=input('Enter Address:')
 print('Enter how many kgs do you need for each item')
-c=float(input('Carrot:'))#if you want grams then type in decimal number like 0.5 for 500gms.
+c=float(input('Carrot:')) #if you want grams then type in decimal number like 0.5 for 500gms.
 p=float(input('Potato:'))
 t=float(input('Tomato:'))
 o=float(input('Onion:'))
